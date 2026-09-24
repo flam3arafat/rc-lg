@@ -5,7 +5,7 @@ made user-friendly for everyone to use. It allows you to execute network related
 [![](screenshot.png)](https://lg-nl-ams.hybula.net/)
 
 ## Demo
-[See it in action here!](https://lg-nl-ams.hybula.net/)
+[See it in action here!](https://glass.rajshahicolo.com)
 
 ## Features
 - Bootstrap 5 UI.
